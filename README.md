@@ -1,7 +1,6 @@
 # Pixel-Maker-Project
-Udacity Pixel Maker Project
 
-Udacity project where I've made a pixel grid that you can change the colors.
+Udacity Pixel Maker Project where I've made a pixel grid that you can change the colors.
 
 # Instructions
 
